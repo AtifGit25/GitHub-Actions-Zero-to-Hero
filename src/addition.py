@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-# Now I am adding another line
+# I am rerunning this code to understand github action
 def add(a, b):
     return a + b
 
