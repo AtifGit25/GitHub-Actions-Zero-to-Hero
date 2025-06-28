@@ -1,6 +1,5 @@
 # app.py
-# This is a test commit
-# I am rerunning this code to understand github action
+# This is a basic python add function
 def add(a, b):
     return a + b
 
