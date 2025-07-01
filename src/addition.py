@@ -1,6 +1,6 @@
 # app.py
 # This is a basic python add function
-# This is self hosted runner now
+# This is self hosted runner
 def add(a, b):
     return a + b
 
